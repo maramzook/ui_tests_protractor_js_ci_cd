@@ -3,7 +3,7 @@
 ## install packages
 npm install 
 
-## execute tests ti generate junit result
+## execute tests to generate the junit result
 npm test
 
 this project is part of azure ci/cd for test automation engineers
